@@ -1,0 +1,19 @@
+{
+    "name": "Duong Nguyen",
+    "short_name": "Duong Nguyen",
+    "icons": [
+        {
+            "src": "https://lh3.googleusercontent.com/-wlKoVoJJUDs/ZZtv7_B2RfI/AAAAAAAAACU/tfnpF56DHkclypZp0BmD4dcg8QpIhv1fQCNcBGAsYHQ/h0/favicon%2B%25281%2529.ico",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "https://lh3.googleusercontent.com/-wlKoVoJJUDs/ZZtv7_B2RfI/AAAAAAAAACU/tfnpF56DHkclypZp0BmD4dcg8QpIhv1fQCNcBGAsYHQ/h0/favicon%2B%25281%2529.icog",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ],
+    "theme_color": "#ffffff",
+    "background_color": "#ffffff",
+    "display": "standalone"
+}
